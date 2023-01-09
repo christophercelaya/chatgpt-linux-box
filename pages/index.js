@@ -42,17 +42,17 @@ const Home = () => {
 				<div className="header">
 					<div className="header-title">
 						{/* Change your headline here */}
-						<h1>English Translator and Improver</h1>
+						<h1>Chat GPT Linux Box</h1>
 					</div>
 					<div className="header-subtitle">
 						<h1>How to use:</h1>
 					            <h2>
-							Replace simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences.
+							Act as a linux terminal
 						</h2>
 						<h2>
-						     Use any language you want. The AI will automatically translate to english.
+						     List the current directory and create a new file called myFile.txt.
 						</h2>
-						<h3>Example: I love technology, how can I go to school and study this to become a computer scientist?</h3>
+						<h3>Example: pwd && touch myFile</h3>
 					</div>
 				</div>
 
